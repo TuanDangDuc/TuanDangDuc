@@ -6,7 +6,6 @@
   </a>
 </p>
 
-
 ## About Me
 - Second-year Information Technology student passionate about Backend Engineering and DevOps.
 - Experienced with Java Spring Boot, PostgreSQL, Redis, Docker, Jenkins, and Linux through academic and personal projects.
@@ -28,7 +27,6 @@
   <a href="https://github.com/TuanDangDuc">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TuanDangDuc&cache_seconds=7200&layout=compact&theme=cobalt&border_radius=10" alt="TuanDangDuc's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=TuanDangDuc&theme=cobalt&hide_border=true&cache_seconds=86400" alt="TuanDangDuc's GitHub Streak" width="49%" />
 </p>
 
 
@@ -105,10 +103,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-<div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
-</div>
-
